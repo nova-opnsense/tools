@@ -1,0 +1,4 @@
+make clean-core
+
+make dvd CORE_COPYRIGHT_HOLDER="NovaIntechs JSC.," CORE_COPYRIGHT_WWW=https://novaintechs.com/ CORE_COPYRIGHT_YEARS=2022 CORE_MAINTAINER=info@novaintechs.com CORE_PRODUCT=NOC CORE_NICKNAME=nit-noc CORE_WWW=https://novaintechs.com/
+
